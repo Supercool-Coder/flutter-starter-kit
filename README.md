@@ -1,5 +1,3 @@
-Here’s a sample description for your Flutter GitHub repository using relevant `#` tags:
-
 ---
 
 ### Repository Name: **flutter-starter-kit**
