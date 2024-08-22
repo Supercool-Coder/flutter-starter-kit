@@ -1,0 +1,9 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "git-autoconfig.configList": [
+        {
+            "user.email": "im.momin.34@gmail.com",
+            "user.name": "Raik@2024"
+        },
+    ]
+}
